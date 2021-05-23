@@ -9,7 +9,7 @@ Building a labelled dataset to build an algorithm to tag pieces of fiction. The 
 [Notes on the fics I'm choosing](#chosenfics) <br>
 [Notes on fanfic processing](#ficprocessing) <br>
 [Notes on manual tag processing](#tagprocessing) <br>
-[Sources for code adapted and used] (#codesources]<br>
+[Sources for code adapted and used](#codesources)<br>
   
 <a name="libraries"><b>Necessary Libraries</b></a> <br>
 Pandas <br>
